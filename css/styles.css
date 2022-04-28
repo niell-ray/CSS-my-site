@@ -1,0 +1,74 @@
+body{
+  margin:0 ;
+  text-align: center;
+  font-family: 'Nova Mono', monospace;
+}
+
+div {
+  background-color: white;
+  margin: 0;
+}
+
+h1 {
+  font-size: 60px;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 4;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+
+
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top{
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 3;
+}
+
+.coding-gif {
+  width: 30%;
+  float:left;
+  margin-right: 30px;
+}
+
+.brain {
+  width:30%;
+  float:right;
+  margin-left: 30px;
+
+}
